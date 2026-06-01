@@ -14,9 +14,9 @@ To get access to the code, templates, and to submit your project, you must be a 
 
 ## 🛠️ Next Steps for Teams
 Once you have accepted your invitation to the organization:
-1. **Create your Repo:** Go to the [Team Template Repo](https://github.com/Bosch-Connected-Experience-26/SolutionPlan_Template) and click the green **Use this template** button. *(Note: updated link name to match your repo!)*
+1. **Create your Repo:** Go to the [Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo) and click the green **Use this template** button. *(Note: updated link name to match your repo!)*
 2. **Name it:** Name the new repository after your Team Name.
-3. **Fill out the Solution Plan:** Edit the `README.md` in your new repo to introduce your team and your core idea.
+3. **Fill out the Your Team at a Glance:** Edit the `README.md` in your new repo to introduce your team and your core idea.
 
 ---
 
