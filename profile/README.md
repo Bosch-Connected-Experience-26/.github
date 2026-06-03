@@ -1,13 +1,19 @@
 # 🚀 Bosch ConnectedExperience (BCX26) Hackathon
 
-Welcome to the official GitHub organization for the **Bosch ConnectedExperience (BCX26)**! 
+## Welcome, Hackers! 🎉
 
-BCX is one of Europe’s largest AI and IoT hackathons. It is an unmissable event for the global community of developers, product owners, product managers, UX experts, entrepreneurs, and innovators from more than 45 countries. About 100 selected participants will have 20 hours to team up and hack exciting challenges to create connected solutions invented for life.
+**Congratulations!** You are one of approximately 100 brilliant minds selected from over 45 countries to join us at **BCX26** in Berlin this June. We are absolutely thrilled to have you on board!
+
+Whether you are a seasoned developer, a creative UX designer, an ambitious entrepreneur, or a curious innovator stepping into your first hackathon -- you belong here. You were chosen because you bring something extraordinary to the table, and we cannot wait to see what you will build.
+
+Over 20 intense and exhilarating hours at the Amazon Corporate Office in Berlin, you will team up with fellow hackers, get your hands on cutting-edge IoT and AI technologies, and collaborate with our incredible partners **AWS** and **MongoDB** to turn bold ideas into working prototypes. This is your playground -- dream big, experiment fearlessly, and have fun doing it!
+
+Welcome to the official GitHub organization for **BCX26** -- one of Europe's largest AI and IoT hackathons, and an unmissable event for the global community of developers, product owners, product managers, UX experts, entrepreneurs, and innovators. This is where your journey begins. Let's create connected solutions invented for life, together!
 
 ---
 
 ## 🚨 HOW TO JOIN THE GITHUB ORG 🚨
-To get access to the code, templates, and to submit your project, you must be a member of this GitHub Organization. 
+To get access to the code, templates, and to submit your project, you must be a member of this GitHub Organization.
 👉 **[CLICK HERE TO GET YOUR AUTOMATED INVITE](https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome)** 👈
 
 ---
@@ -16,7 +22,7 @@ To get access to the code, templates, and to submit your project, you must be a 
 Once you have accepted your invitation to the organization, it's time to set up your workspace:
 
 1. **Form a GitHub Team:** Go to the Organization's **[Teams tab](https://github.com/orgs/Bosch-Connected-Experience-26/teams)** and click **New team**. Name it after your Hackathon team and invite your team members to join it.
-2. **Create your Repo:** Go to the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository and click the green **Use this template** button (Create a new repository). 
+2. **Create your Repo:** Go to the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository and click the green **Use this template** button (Create a new repository).
 3. **Configure the Repo:** Name the new repository after your Team Name. *Important: Make sure to grant your newly created GitHub Team 'Write' or 'Admin' access to this repository so you can all collaborate!*
 4. **Fill out 'Your Team at a Glance':** Edit the `README.md` in your new repository to introduce your team members, state your challenge, and sketch your core idea.
 
@@ -30,7 +36,7 @@ Once you have accepted your invitation to the organization, it's time to set up 
 * **Audience:** Open to all new and experienced coders, developers, UX, and product designers.
 
 ## 💡 What to Expect
-During the hackathon, you will design and develop connected products, apps, and services with a strong focus on outstanding user experiences. 
+During the hackathon, you will design and develop connected products, apps, and services with a strong focus on outstanding user experiences.
 * **Technologies:** Work with a wide range of IoT and AI sensors, devices, and software.
 * **Collaboration:** Turn bold ideas into real prototypes alongside our strong partners AWS and MongoDB.
 * **Pitching:** Pitch your use case to an experienced audience.
@@ -73,12 +79,12 @@ Participants will hack exciting challenges across the following fields:
 ## 🎤 Pitch Presentation Guidance
 
 **What is it?**
-The basic meaning of pitching is throwing an idea at your audience, hoping to score a hit, as in baseball. In the context of PowerPoint presentations, a pitch is a special type of sales presentation, through which you introduce your company, product, or idea, and it is short. 
+The basic meaning of pitching is throwing an idea at your audience, hoping to score a hit, as in baseball. In the context of PowerPoint presentations, a pitch is a special type of sales presentation, through which you introduce your company, product, or idea, and it is short.
 
 **How long is it?**
 Usually, pitches are very short (3-5 minutes). **At this Hackathon, we will inform you about the upper limit at a later point.**
 
-**What’s its purpose?**
+**What's its purpose?**
 Through your pitching presentation, you have to convince your audience of your idea and attract potential investors. Because time is limited, you need to plan really carefully what you want to say.
 
 **Slide Requirements**
