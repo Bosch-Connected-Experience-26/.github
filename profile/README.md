@@ -48,6 +48,9 @@ Participants will hack exciting challenges across the following fields:
 For those who couldn't attend, or would like to revisit the content, please find the key resources below:
 [Recording](https://enablement.mongodb.com/i/xTMlGHmw6cIXGBN9M1xj99Q4W14FdEfCmQcOLXSET6amPLUSSIGNEcpELRz2rLRJc______HsUQNzZXlSgnt6gUQNMxKYLrK7haG0MDxKInWm5GvrM76I___IWBB8S3iACcGmoUUS0rhT)
 
+-- 
+## Challenges Overview
+Find the presented Challenges also here: [Challenges](https://github.com/Bosch-Connected-Experience-26/.github/blob/main/profile/BCX26_Challenges.pdf)
 
 ---
 ## 🕒 Agenda
