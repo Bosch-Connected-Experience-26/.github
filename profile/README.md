@@ -44,7 +44,12 @@ Participants will hack exciting challenges across the following fields:
 4. **Cognitive Platforms**
 
 ---
+## BCX26 Pre-Hackathon Session.
+For those who couldn't attend, or would like to revisit the content, please find the key resources below:
+[Recording](https://enablement.mongodb.com/i/xTMlGHmw6cIXGBN9M1xj99Q4W14FdEfCmQcOLXSET6amPLUSSIGNEcpELRz2rLRJc______HsUQNzZXlSgnt6gUQNMxKYLrK7haG0MDxKInWm5GvrM76I___IWBB8S3iACcGmoUUS0rhT)
 
+
+---
 ## 🕒 Agenda
 
 ### Day 1 – June 09, 2026
