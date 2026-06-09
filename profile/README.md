@@ -1,5 +1,11 @@
 # 🚀 Bosch ConnectedExperience (BCX26) Hackathon
 
+---
+## Recent Updates ##
+We prepared a briefing for the team presentations tomorrow **[here](https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome/blob/main/Pitch%20briefing%20for%20teams.md)**
+If you did not read them yet, check also the pitch [guidance & resources section of this readme]([https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome/blob/main/Pitch%20briefing%20for%20teams.md](https://github.com/Bosch-Connected-Experience-26/.github/blob/main/profile/README.md#-pitch-presentation-guidance))
+
+---
 Welcome to the official GitHub organization for the **Bosch ConnectedExperience (BCX26)**! 
 
 BCX is one of Europe’s largest AI and IoT hackathons. It is an unmissable event for the global community of developers, product owners, product managers, UX experts, entrepreneurs, and innovators from more than 45 countries. About 100 selected participants will have 20 hours to team up and hack exciting challenges to create connected solutions invented for life.
