@@ -45,8 +45,10 @@ Participants will hack exciting challenges across the following fields:
 
 ---
 ## BCX26 Pre-Hackathon Session.
-For those who couldn't attend, or would like to revisit the content, please find the key resources below:
+For those who couldn't attend or would like to revisit the content, please find the key resources below:
 [Recording](https://enablement.mongodb.com/i/xTMlGHmw6cIXGBN9M1xj99Q4W14FdEfCmQcOLXSET6amPLUSSIGNEcpELRz2rLRJc______HsUQNzZXlSgnt6gUQNMxKYLrK7haG0MDxKInWm5GvrM76I___IWBB8S3iACcGmoUUS0rhT)
+
+⚠️🔼 Recording includes a hands-on setup of the **AWS account** + **MongoDB cluster** (for Vector Search / AI)
 
 ---
 ## Challenges Overview
