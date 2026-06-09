@@ -3,7 +3,8 @@
 ---
 ## Recent Updates ##
 We prepared a briefing for the team presentations tomorrow **[here](https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome/blob/main/Pitch%20briefing%20for%20teams.md)**
-If you did not read them yet, check also the pitch [guidance & resources section of this readme]([https://github.com/Bosch-Connected-Experience-26/BCX26-Welcome/blob/main/Pitch%20briefing%20for%20teams.md](https://github.com/Bosch-Connected-Experience-26/.github/blob/main/profile/README.md#-pitch-presentation-guidance))
+
+If you did not read them yet, check also the [pitch guidance & resources section](https://github.com/Bosch-Connected-Experience-26/.github/blob/main/profile/README.md#-pitch-presentation-guidance) of this readme.
 
 ---
 Welcome to the official GitHub organization for the **Bosch ConnectedExperience (BCX26)**! 
