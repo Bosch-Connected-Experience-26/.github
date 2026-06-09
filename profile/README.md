@@ -19,7 +19,8 @@ Once you have accepted your invitation to the organization, it's time to set up 
 2. **Create your Repo:** Go to the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository and click the green **Use this template** button (Create a new repository). 
 3. **Configure the Repo:** Name the new repository after your Team Name. *Important: Make sure to grant your newly created GitHub Team 'Write' or 'Admin' access to this repository so you can all collaborate!*
 4. **Fill out 'Your Team at a Glance':** Edit the `README.md` in your new repository to introduce your team members, state your challenge, and sketch your core idea.
-
+5. **Follow the instructions** to set up your Repo / Project following the [Sample instructions for the AWS Account + MongoDB] _(Optional)_
+6. Provision your AWS environment. Instructions below
 
 ---
 
@@ -96,6 +97,19 @@ Find the presented Challenges also here: [Challenges](https://github.com/Bosch-C
 | Team 11 | [https://catalog.us-east-1.prod.workshops.aws/join?access-code=0436-1e0ef0-b0](https://catalog.us-east-1.prod.workshops.aws/join?access-code=0436-1e0ef0-b0) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fcatalog.us-east-1.prod.workshops.aws%2Fjoin%3Faccess-code%3D0436-1e0ef0-b0) |
 | Team 12 | [https://catalog.us-east-1.prod.workshops.aws/join?access-code=4669-115ac0-f3](https://catalog.us-east-1.prod.workshops.aws/join?access-code=4669-115ac0-f3) | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fcatalog.us-east-1.prod.workshops.aws%2Fjoin%3Faccess-code%3D4669-115ac0-f3) |
 
+---
+
+## ⚙️ Technical Guidance
+
+**Amazon AgentCore** is an all-round platform for production AI agents. [Any framework](https://github.com/awslabs/agentcore-samples/tree/main/03-integrations). Any model. Secure at scale. You can access Bedrock AgentCore via the workshop studio account above.
+
+**MongoDB** is a versatile database capable of storing [structured](https://www.mongodb.com/docs/manual/core/schema-validation/), [semi-structured](https://www.mongodb.com/resources/basics/unstructured-data/schemaless), [time-series](https://www.mongodb.com/products/capabilities/time-series), and [vector embeddings](https://www.mongodb.com/docs/vector-search/tutorials/quick-start/) (compatible with nearly all vector embedding models), as well as [full-text](https://www.mongodb.com/docs/atlas/atlas-search/) and [hybrid search](https://www.mongodb.com/docs/atlas/atlas-search/tutorial/hybrid-search/). It is a highly consistent database suitable for tackling the challenges in this hackathon. Follow the instructions below to set up your MongoDB Atlas account for the hackathon:
+
+Initial Setup Instructions (Amazon AgentCore + MongoDB Atlas): [https://bosch-connected-experience-26.github.io/step-by-step-AgentCore-and-Atlas/index.html](https://bosch-connected-experience-26.github.io/step-by-step-AgentCore-and-Atlas/index.html)
+
+_(feel free to follow this instructions partially)_
+
+⚠️💡: See the [Scoring Criteria](https://enablement.mongodb.com/i/xTMlGHmw6cIXGBN9M1xj99Q4W14FdEfCmQcOLXSET6amPLUSSIGNEcpELRz2rLRJc______HsUQNzZXlSgnt6gUQNMxKYLrK7haG0MDxKInWm5GvrM76I___IWBB8S3iACcGmoUUS0rhT) to understand which technologies / integrations might impact scores.
 
 ---
 
