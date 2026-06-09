@@ -78,6 +78,26 @@ Find the presented Challenges also here: [Challenges](https://github.com/Bosch-C
 
 ---
 
+## Teams AWS Accounts 
+
+| Team | Login URL | QR Code |
+| --- | --- | --- |
+| Team 1 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/d332de96-04e8-4969-b062-997c418e7abe` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fd332de96-04e8-4969-b062-997c418e7abe) |
+| Team 2 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/ba2c16da-94d3-4285-9072-24f11414e5b9` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fba2c16da-94d3-4285-9072-24f11414e5b9) |
+| Team 3 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/086cd548-9bb7-4642-beaa-9cce907cd8fc` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2F086cd548-9bb7-4642-beaa-9cce907cd8fc) |
+| Team 4 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/8c01dadb-71d0-47bb-8947-aedfbf612234` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2F8c01dadb-71d0-47bb-8947-aedfbf612234) |
+| Team 5 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/1189faaf-8e81-4f6f-8754-297c0920e72b` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2F1189faaf-8e81-4f6f-8754-297c0920e72b) |
+| Team 6 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/3408deb2-4363-456a-9265-8e2d88b5d280` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2F3408deb2-4363-456a-9265-8e2d88b5d280) |
+| Team 7 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/ef6570e6-7841-4843-904d-b74065d8c8c9` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fef6570e6-7841-4843-904d-b74065d8c8c9) |
+| Team 8 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/4ad67a7d-6c2e-439b-81e8-bac45a33ba3b` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2F4ad67a7d-6c2e-439b-81e8-bac45a33ba3b) |
+| Team 9 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/a81ecd60-2bc6-4e56-bb8c-51f8b683c30a` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fa81ecd60-2bc6-4e56-bb8c-51f8b683c30a) |
+| Team 10 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/b3020c56-0335-480c-a9aa-19c089e512c1` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fb3020c56-0335-480c-a9aa-19c089e512c1) |
+| Team 11 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/a7ebf968-ac32-40b9-98a5-24ccd3966525` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fa7ebf968-ac32-40b9-98a5-24ccd3966525) |
+| Team 12 | `https://studio.us-east-1.prod.workshops.aws/events/2d9a97d4-82d4-4abe-a21c-c1b89adf164e/teams/e4a5f92b-831c-43cb-8d96-bf5902f3518a` | ![QR](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https%3A%2F%2Fstudio.us-east-1.prod.workshops.aws%2Fevents%2F2d9a97d4-82d4-4abe-a21c-c1b89adf164e%2Fteams%2Fe4a5f92b-831c-43cb-8d96-bf5902f3518a) |
+
+
+---
+
 ## 🎤 Pitch Presentation Guidance
 
 **What is it?**
