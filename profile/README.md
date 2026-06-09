@@ -19,7 +19,7 @@ Once you have accepted your invitation to the organization, it's time to set up 
 2. **Create your Repo:** Go to the **[Team Template Repo](https://github.com/Bosch-Connected-Experience-26/Team_Template_Repo)** repository and click the green **Use this template** button (Create a new repository). 
 3. **Configure the Repo:** Name the new repository after your Team Name. *Important: Make sure to grant your newly created GitHub Team 'Write' or 'Admin' access to this repository so you can all collaborate!*
 4. **Fill out 'Your Team at a Glance':** Edit the `README.md` in your new repository to introduce your team members, state your challenge, and sketch your core idea.
-5. **Follow the instructions** to set up your Repo / Project following the [Sample instructions for the AWS Account + MongoDB] _(Optional)_
+5. **Follow the instructions** to set up your Repo / Project following the [Sample instructions for the AWS Account + MongoDB](https://bosch-connected-experience-26.github.io/step-by-step-AgentCore-and-Atlas) _(Optional)_
 6. Provision your AWS environment. Instructions below
 
 ---
